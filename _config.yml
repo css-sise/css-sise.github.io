@@ -95,3 +95,5 @@ defaults:
       type: pages
     values:
       layout: doc
+
+exclude: [ 'README.md', 'CHANGELOG.md' ]
