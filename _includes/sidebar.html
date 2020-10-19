@@ -4,7 +4,7 @@
                     <!-- SIDEBAR -->
                     <div class="doc-sidebar sticky-top">
                         <nav id="doc-nav" class="navbar">
-                            <ul id="doc-menu-old" class="doc-menu nav hidden-xs">
+                            <ol id="doc-menu-old" class="doc-menu nav hidden-xs">
                               {% for id in page.sections %}
                                 {% assign section = site.doc | where: "id", id | first %}
                                 {% unless section %}
@@ -14,7 +14,7 @@
                                 {% unless section %}{% continue %}{% endunless %}
                                 <li class="nav-item"><a class="nav-link scrollto" href="#{{ section.title | slugify }}">{% if section.short_title %}{{ section.short_title }}{% else %}{{ section.title }}{% endif %}</a></li>
                                 {% if section.sections %}
-                                  <ul class="doc-sub-menu nav">
+                                  <ol class="doc-sub-menu nav">
                                   {% for subsection in section.sections %}
                                     <li class="nav-item"><a class="nav-link scrollto" href="#{{ subsection | slugify: 'pretty' }}">{{ subsection }}</a></li>
                                   {% endfor %}
