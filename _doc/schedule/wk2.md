@@ -15,6 +15,7 @@ title: Week 2&#58; Observing behavior, Social Research in the Digital Age
 ***Additional reading***:
 
 - Duncan Watts. [**Should social science be more solution-oriented?**](https://www.nature.com/articles/s41562-016-0015), *Nature*.
-- David Donoho. [**50 Years of Data Science**](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
+- David Donoho. [**50 Years of Data Science**](https://www-tandfonline-com.ezproxy.bgu.ac.il/doi/pdf/10.1080/10618600.2017.1384734?needAccess=true). Journal of Computational and
+Graphical Statistics, 26:4, 745-766. 2017.
 
 
