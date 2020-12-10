@@ -12,7 +12,7 @@ title: Week 9&#58; Problems with ML
 - Rahimi, Ali, and Ben Recht. [**Reflections on random kitchen sinks**](http://www.argmin.net/2017/12/05/kitchen-sinks/). (2017): 1-3. 
 - Hutson, Matthew. 2020. [**Eye-Catching Advances in Some AI Fields Are Not Real**](https://www.sciencemag.org/news/2020/05/eye-catching-advances-some-ai-fields-are-not-real). Science. 
 - Mitchell, Shira, Eric Potash, Solon Barocas, Alexander D'Amour, and Kristian Lum. [**Prediction-based decisions and fairness: A catalogue of choices, assumptions, and definitions.**](https://arxiv.org/abs/1811.07867) arXiv preprint arXiv:1811.07867 (2018).
-- Justin Grimmer & Brandon Stewart. [**Text as Data: The Promises and Pitfalls of Automated Content Analysis**](https://www.cambridge.org/core/journals/political-analysis/article/text-as-data-the-promise-and-pitfalls-of-automatic-content-analysis-methods-for-political-texts/F7AAC8B2909441603FEB25C156448F200), Political Analysis.
+- Justin Grimmer & Brandon Stewart. [**Text as Data: The Promises and Pitfalls of Automated Content Analysis**](https://login.ezproxy.bgu.ac.il/login?url=https://www.jstor.org/stable/pdf/24572662.pdf), Political Analysis.
 
 
 ***Additional reading***:
