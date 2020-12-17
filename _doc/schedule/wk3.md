@@ -14,8 +14,8 @@ title: Week 3&#58; Research ethics, running experiments
 ***Additional reading***:
 
 _Ethics: Able is not always ethical_
-- Grimmelmann, J. (2015). The law and ethics of experiments on social media users. 13 Colo. Tech. L.J. 219, 2015
-Fiesler, Casey, and Nicholas Proferes. [**“Participant” perceptions of Twitter research ethics.**](https://journals.sagepub.com/doi/pdf/10.1177/2056305118763366). Social Media+ Society. 2015.
+- Grimmelmann, J. (2015). [**The law and ethics of experiments on social media users**](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2621&context=facpub). 13 Colo. Tech. L.J. 219, 2015.
+- Fiesler, Casey, and Nicholas Proferes. [**“Participant” perceptions of Twitter research ethics.**](https://journals.sagepub.com/doi/pdf/10.1177/2056305118763366). Social Media+ Society. 2015.
 - Kroll, Joshua A., Solon Barocas, Edward W. Felten, Joel R. Reidenberg, David G. Robinson, and Harlan Yu. [**Accountable algorithms**](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?&article=9570&context=penn_law_review). U. Pa. L. Rev. 165 (2016): 633.
 - Matias, J. N. (2016). [**The Obligation To Experiment**](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9). MIT Media Lab.
 - Robinson Meyer. [**Everything We Know About Facebook's Secret Mood Manipulation Experiment**](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/), the Atlantic. June 28, 2014.
