@@ -1,7 +1,7 @@
 ---
 title: Course Description
 excerpt: Information systems and algorithms are now shaping...
-date: 2020-10-16
+date: 2021-10-17
 icon:
   type: fa
   name: fa-file-alt

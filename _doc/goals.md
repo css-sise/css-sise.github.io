@@ -1,7 +1,7 @@
 ---
 title: Goals
 excerpt: Class objectives
-date: 2020-10-16
+date: 2021-10-17
 icon:
   type: fa
   name: fa-bullseye

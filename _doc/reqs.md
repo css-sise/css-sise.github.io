@@ -1,7 +1,7 @@
 ---
 title: Formal requirements
 excerpt: Participation, reading responses, presentation, and project.
-date: 2020-10-16
+date: 2021-10-17
 icon:
   type: fa
   name: fa-info-circle
