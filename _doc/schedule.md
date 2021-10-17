@@ -1,7 +1,7 @@
 ---
 title: Schedule
 excerpt: Week-by-week plan and readings
-date: 2020-10-18
+date: 2021-10-17
 icon:
   type: fa
   name: fa-calendar-alt
@@ -37,7 +37,7 @@ I reserve the right to introduce changes in the schedule for various reasons, in
 #### Reading responses &amp; peer reviews
 
 - Reading responses are due at midnight before each class (submit on Moodle). 
-- Peer reviews are due on Friday following class also on Moodle. 
+- Peer reviews are due on Tue the week after class that discussed that topic (also on Moodle). 
 
 See [requirements page]({{ site.baseurl }}{% link _doc/reqs.md %}#reading-responses-and-peer-reviews-18) for more info.
 </div></div>

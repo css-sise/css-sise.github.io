@@ -2,7 +2,7 @@
 layout: home
 title: Home
 tagline: |
-  Fall semester, 2020-2021
+  Fall semester, 2021-2022
   
   *&nbsp;*{: .fa .fa-heart}<br>
 
