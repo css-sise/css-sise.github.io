@@ -20,8 +20,8 @@ title: Week 9&#58; Problems with ML
 - Rahimi, Ali, and Benjamin Recht. [**Random features for large-scale kernel machines**](https://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf). In Advances in neural information processing systems, pp. 1177-1184. 2008.
 - Yang, Wei, Kuang Lu, Peilin Yang, and Jimmy Lin. [**Critically Examining the "Neural Hype" Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models**](https://dl-acm-org.ezproxy.bgu.ac.il/doi/pdf/10.1145/3331184.3331340). In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 1129-1132. 2019.
 - Kleinberg, Jon, Sendhil Mullainathan, and Manish Raghavan. [**Inherent trade-offs in the fair determination of risk scores**](https://arxiv.org/pdf/1609.05807.pdf). (2016).
-- Cathy O'Neil. [**Chapter 3: Arms Race - Going to College**](https://moodle2.bgu.ac.il/moodle/mod/resource/view.php?id=1613854), *Weapons of Math Destruction*. 2016.
+- Cathy O'Neil. [**Chapter 3: Arms Race - Going to College**](https://moodle2.bgu.ac.il/moodle/mod/resource/view.php?id=2015222), *Weapons of Math Destruction*. 2016.
 - Wu, Xiaolin, and Xi Zhang. [**Automated inference on criminality using face images**](https://emilkirkegaard.dk/en/wp-content/uploads/Automated-Inference-on-Criminality-using-Face-Images.pdf). arXiv preprint (2016): 4038-4052.
-- Sendhil Mullainathan. [**Biased Algorithms Are Easier to Fix Than Biased People**](https://moodle2.bgu.ac.il/moodle/mod/resource/view.php?id=1613873), *New York Times*. Dec. 6, 2019.
-- Alisha Haridasani Gupta. [**Are Algorithms Sexist?**](https://moodle2.bgu.ac.il/moodle/mod/resource/view.php?id=1613874), *New York Times*. Nov 15, 2019.
+- Sendhil Mullainathan. [**Biased Algorithms Are Easier to Fix Than Biased People**](https://moodle2.bgu.ac.il/moodle/mod/resource/view.php?id=1976376), *New York Times*. Dec. 6, 2019.
+- Alisha Haridasani Gupta. [**Are Algorithms Sexist?**](https://moodle2.bgu.ac.il/moodle/mod/resource/view.php?id=1976377), *New York Times*. Nov 15, 2019.
 
